@@ -159,7 +159,8 @@ defaults:
   home:
     heading: "Welcome to my blog"
     subheading: "-sommerJY-"
-    banner: "https://sommerJY.github.io/assets/images/banners/home.jpeg"
+    #banner: "https://sommerJY.github.io/assets/images/banners/home.jpeg"
+    banner: "https://sommerJY.github.io/assets/images/banners/zzz.png"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
